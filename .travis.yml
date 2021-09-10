@@ -1,4 +1,4 @@
 language: java
 jdk: openjdk10
-install:
+script:
 - ./gradlew build
