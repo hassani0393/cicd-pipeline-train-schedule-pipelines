@@ -1,5 +1,4 @@
 language: java
 install:
-- openjdk8
 - ./gradlew build
 - ./gradlew npm_start
