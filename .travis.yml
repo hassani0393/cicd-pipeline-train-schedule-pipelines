@@ -1,5 +1,4 @@
 language: java
-- openjdk8
 install:
 - openjdk8
 - ./gradlew build
