@@ -4,3 +4,5 @@ node_js:
 before_install:
 - ./gradlew assemble
 - ./gradlew build
+install:
+- jvm
