@@ -1,3 +1,5 @@
+[![Build Status](https://app.travis-ci.com/hassani0393/cicd-pipeline-train-schedule-pipelines.svg?branch=master)](https://app.travis-ci.com/hassani0393/cicd-pipeline-train-schedule-pipelines)
+
 language: java
 jdk: openjdk10
 install: skip
