@@ -1,3 +1,4 @@
+[![Build Status](https://app.travis-ci.com/hassani0393/cicd-pipeline-train-schedule-pipelines.svg?branch=master)](https://app.travis-ci.com/hassani0393/cicd-pipeline-train-schedule-pipelines)
 # cicd-pipeline-train-schedule-pipelines
 
 This is a simple train schedule app written using nodejs. It is intended to be used as a sample application for a series of hands-on learning activities.
