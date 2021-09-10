@@ -1,8 +1,6 @@
-language: node_js
-node_js:
-  - 7
+language: java
+install:
+  - openjdk8
 before_install:
 - ./gradlew assemble
 - ./gradlew build
-install:
-- jvm
