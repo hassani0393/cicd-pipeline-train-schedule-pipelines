@@ -3,4 +3,3 @@ node_js:
   - 7
 before_install:
 - rvm install 2.1.5
-npm test
