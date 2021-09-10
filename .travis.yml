@@ -2,4 +2,3 @@ language: java
 jdk: openjdk10
 install:
 - ./gradlew build
-- ./gradlew npm_start
