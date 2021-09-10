@@ -3,3 +3,4 @@ node_js:
   - 7
 before_install:
 - ./gradlew assemble
+- ./gradlew build
